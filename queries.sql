@@ -1,7 +1,7 @@
 /************************************************************============ Electoral Bonds Database =========== *******************************************************************
- -- Database created by: V. M R
+ -- Database created by: A. R R
  -- Database Name: electoralbonddata
- -- Author of Queries : V. M R
+ -- Author of Queries : Ragahvendra Rao A
  -- Organization : Careerpedia
  -- Description: This is a database which has electoral bonds data provided by Govenement of INDIA after Supreme Court Ruling. 
  -- Date : 02-April-2024
